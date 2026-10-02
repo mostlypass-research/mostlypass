@@ -24,7 +24,11 @@ def package_text(cfg, date_str, objs, counts, warnings, model_warnings, errors, 
           f"ODDS API CREDITS LEFT: {credits}",
           "VALIDATION: " + ("PASS" if not errors else "FAIL\n  - " + "\n  - ".join(errors[:8])),
           f"CONTENT: {'READY' if not errors else 'BLOCKED'} (newsletter, {n_posts} X posts, short: {'yes' if short_ok else 'skipped'})",
-          f"RECORD: {record_line}", ""]
+          f"RECORD: {record_line}"]
+    repo = os.getenv("GITHUB_REPOSITORY")
+    if short_ok and repo and cfg["mode"] == "LIVE":
+        L.append(f"SHORT (review only, not posted anywhere): https://github.com/{repo}/raw/main/content/out/{date_str}/short.mp4")
+    L.append("")
     if cfg["mode"] != "LIVE":
         L.append("STATUS: TEST RUN (fixture data). Publication is disabled in this mode.")
     elif errors:
