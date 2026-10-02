@@ -19,9 +19,9 @@ MODEL WARNINGS:
   - Seattle Seahawks -7.5: model 62% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
   - Washington Commanders +4: model 67% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
 DATA WARNINGS: None
-ODDS API CREDITS LEFT: 491
+ODDS API CREDITS LEFT: 488
 VALIDATION: PASS
-CONTENT: READY (newsletter, 5 X posts, short: skipped)
+CONTENT: READY (newsletter, 5 X posts, short: yes)
 RECORD: BET: none (the model has not earned BETs) · LEAN paper signals published: 0, none graded yet
 
 STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
