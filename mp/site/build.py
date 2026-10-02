@@ -18,6 +18,8 @@ CSS = """
 *{box-sizing:border-box}body{font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--bg);margin:0}
 main{max-width:880px;margin:0 auto;padding:20px 16px 48px}
 nav{display:flex;flex-wrap:wrap;gap:14px;font-size:15px;margin-bottom:8px}nav a{color:var(--accent);text-decoration:none}
+nav a.sub{background:var(--accent);color:#fff;padding:2px 10px;border-radius:6px}
+.cta{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:10px 16px;border-radius:8px;font-weight:600;margin:4px 0 12px}
 .brand{font-weight:700;font-size:22px;margin:18px 0 0}.tag{color:var(--muted);margin:2px 0 18px}
 .hero{border:1px solid var(--line);background:var(--soft);border-radius:12px;padding:20px 20px 8px;margin:8px 0 24px}
 .hero .kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0}
@@ -43,7 +45,7 @@ def _page(cfg, title, body, gate=False):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} · {html.escape(b['name'])}</title><meta name="description" content="{html.escape(b['description'])}">
 {'<meta name="robots" content="noindex">' if MODE != "LIVE" else ''}<style>{CSS}</style></head><body>{test}{GATE if gate else ''}<main>
-<nav><a href="/">Today</a><a href="/record/">Record</a><a href="/archive/">Archive</a><a href="/methodology/">Methodology</a><a href="/calculators/">Calculators</a><a href="/about/">About</a></nav>
+<nav><a href="/">Today</a><a href="/record/">Record</a><a href="/archive/">Archive</a><a href="/methodology/">Methodology</a><a href="/calculators/">Calculators</a><a href="/about/">About</a>{('<a class="sub" href="' + html.escape(b['newsletter_url']) + '">Subscribe free</a>') if b.get('newsletter_url') else ''}</nav>
 <p class="brand">{html.escape(b['name'])}</p><p class="tag">{html.escape(b['tagline'])}</p>
 {body}
 <footer>Research on betting markets, not betting advice. All signals are PAPER unless marked otherwise. The record is our own automated database:
@@ -59,7 +61,8 @@ def _hero(cfg):
     b = cfg["brand"]
     kicker = f'<p class="kicker">{html.escape(b["founder_line"])}</p>' if b.get("founder_line") else f'<p class="kicker">{html.escape(b["category"])}</p>'
     return f"""<section class="hero">{kicker}<h2>{html.escape(b['tagline'])}</h2><p>{html.escape(b['description'])}</p>
-<p class="muted">No locks. No screenshots. No deleted losses. Every signal is PAPER until a model earns the right to call something a bet.</p></section>"""
+<p class="muted">No locks. No screenshots. No deleted losses. Every signal is PAPER until a model earns the right to call something a bet.</p>
+{('<a class="cta" href="' + html.escape(b['newsletter_url']) + '">Get the daily research by email (free)</a>') if b.get('newsletter_url') else ''}</section>"""
 
 
 def build(cfg: dict, today_md: str | None, date_str: str):

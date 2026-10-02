@@ -8,6 +8,7 @@ brand:
   founder_line: ""
   description: "Daily research on NFL betting prices: what the market implies, where the vig lives, where a transparent model disagrees, and why most games are a pass. Every signal timestamped. Every result published."
   site_url: "https://mostlypass.pages.dev"  # becomes the real Cloudflare URL after first deploy
+  newsletter_url: "https://mostlypass.substack.com/subscribe"   # free newsletter (Substack)
   pages_project: "mostlypass"               # Cloudflare Pages project name
   timezone: "America/New_York"
 
