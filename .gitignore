@@ -7,3 +7,4 @@ data/raw/
 data/cache/
 site/public/
 content/out/*/frames/
+private/

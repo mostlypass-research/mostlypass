@@ -30,13 +30,13 @@ def main():
     git("config", "user.email", email)
     git("config", "credential.https://github.com.username", user)
     # secrets and private data must be ignored before anything is staged
-    for p in (".env", ".venv", "sandbox", "data/raw", "data/cache"):
+    for p in (".env", ".venv", "sandbox", "data/raw", "data/cache", "private"):
         if git("check-ignore", "-q", p, check=False).returncode != 0 and (ROOT / p).exists():
             print(f"STOP: {p} is not git-ignored. Nothing was committed. Tell Claude.")
             return 1
     git("add", "-A")
     staged = git("diff", "--cached", "--name-only", capture=True).stdout.split()
-    leaks = [f for f in staged if f.startswith((".env", ".venv", "sandbox/", "data/raw", "data/cache")) or "keys" in f.lower()]
+    leaks = [f for f in staged if f.startswith((".env", ".venv", "sandbox/", "data/raw", "data/cache", "private/")) or "keys" in f.lower()]
     if leaks:
         git("reset", "-q")
         print(f"STOP: refusing to commit private files: {leaks}")

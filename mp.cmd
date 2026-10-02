@@ -24,7 +24,9 @@ if /I "%CMD%"=="preview" goto preview
 if /I "%CMD%"=="setup"   goto setup
 if /I "%CMD%"=="gitsetup" goto gitsetup
 if /I "%CMD%"=="push"    goto push
-echo Commands: check, setkey, odds, daily, fixture, grade, close, publish, preview, setup, gitsetup, push
+if /I "%CMD%"=="mypick"  goto mypick
+if /I "%CMD%"=="mypicks" goto mypicks
+echo Commands: check, setkey, odds, daily, fixture, grade, close, publish, preview, setup, gitsetup, push, mypick, mypicks
 exit /b 0
 
 :check
@@ -57,6 +59,12 @@ echo Opening http://localhost:8000  (press Ctrl+C here to stop the preview)
 start "" http://localhost:8000
 "%VPY%" -m http.server 8000 --directory site\public
 exit /b 0
+:mypick
+"%VPY%" run_mypicks.py add %2 %3 %4 %5 %6 %7
+exit /b %ERRORLEVEL%
+:mypicks
+"%VPY%" run_mypicks.py
+exit /b %ERRORLEVEL%
 :push
 "%VPY%" run_push.py
 exit /b %ERRORLEVEL%
