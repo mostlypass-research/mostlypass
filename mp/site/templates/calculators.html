@@ -1,0 +1,28 @@
+<h2>Calculators</h2>
+<p class="muted">All math runs in your browser. Nothing is sent anywhere.</p>
+<h3>Devig a two-way market</h3>
+<p>Side A price <input id="a" value="-110" size="6"> Side B price <input id="b" value="-110" size="6"> <button onclick="devig()">Compute</button></p>
+<pre id="devig_out"></pre>
+<h3>Kelly stake</h3>
+<p>Your probability (%) <input id="kp" value="55" size="5"> Price <input id="kprice" value="-110" size="6"> Fraction <input id="kf" value="0.25" size="4"> <button onclick="kelly()">Compute</button></p>
+<pre id="kelly_out"></pre>
+<h3>Closing-line value</h3>
+<p>Your price <input id="cb" value="+115" size="6"> Closing price <input id="cc" value="+105" size="6"> <button onclick="clv()">Compute</button></p>
+<pre id="clv_out"></pre>
+<h3>Parlay cost</h3>
+<p>Legs (comma-separated American prices) <input id="legs" value="-110,-110,-110" size="24"> <button onclick="parlay()">Compute</button></p>
+<pre id="parlay_out"></pre>
+<script>
+function ip(o){o=parseFloat(o);return o>0?100/(o+100):(-o)/(-o+100)}
+function dec(o){o=parseFloat(o);return o>0?1+o/100:1+100/(-o)}
+function am(p){return p>=0.5?Math.round(-100*p/(1-p)):Math.round(100*(1-p)/p)}
+function f(n){return (n>0?'+':'')+n}
+function devig(){const a=ip(document.getElementById('a').value),b=ip(document.getElementById('b').value),s=a+b;
+document.getElementById('devig_out').textContent=`Hold: ${((s-1)*100).toFixed(2)}%\nFair A: ${(a/s*100).toFixed(1)}% (${f(am(a/s))})\nFair B: ${(b/s*100).toFixed(1)}% (${f(am(b/s))})\nBreak-even win rate at side A price: ${(a*100).toFixed(1)}%`}
+function kelly(){const p=parseFloat(document.getElementById('kp').value)/100,o=document.getElementById('kprice').value,fr=parseFloat(document.getElementById('kf').value);const b=dec(o)-1;const k=(p*b-(1-p))/b;
+document.getElementById('kelly_out').textContent=`Full Kelly: ${(k*100).toFixed(2)}% of bankroll\nFractional (${fr}): ${(Math.max(k,0)*fr*100).toFixed(2)}%\nEdge vs price: ${((p-ip(o))*100).toFixed(2)}%  EV per unit: ${(p*b-(1-p)).toFixed(3)}`}
+function clv(){const b=document.getElementById('cb').value,c=document.getElementById('cc').value;const v=ip(c)-ip(b);
+document.getElementById('clv_out').textContent=`CLV: ${(v*100).toFixed(2)} percentage points ${v>0?'(beat the close)':'(worse than the close)'}`}
+function parlay(){const legs=document.getElementById('legs').value.split(',').map(s=>s.trim());let d=1,fair=1;for(const l of legs){d*=dec(l);fair*=ip(l)}
+document.getElementById('parlay_out').textContent=`Parlay payout: ${d.toFixed(3)}x (${f(am(1/d))})\nImplied probability at -110 legs: ${(fair*100).toFixed(2)}%\nIf each leg is a true coin flip, hold on this parlay is ${((1-Math.pow(0.5,legs.length)*d)*100).toFixed(1)}%`}
+</script>

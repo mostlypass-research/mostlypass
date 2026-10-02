@@ -1,0 +1,94 @@
+{
+ "model": "elo_v0",
+ "seasons": [
+  2010,
+  2025
+ ],
+ "n_games": 4363,
+ "spread_mae_model": 10.398114395782885,
+ "spread_mae_close": 10.054205821682329,
+ "ats_by_threshold": {
+  "1.0": {
+   "n": 3177,
+   "wins": 1603,
+   "pct": 0.5046,
+   "z_vs_50": 0.51,
+   "roi_at_-110": -0.0367
+  },
+  "2.0": {
+   "n": 2166,
+   "wins": 1111,
+   "pct": 0.5129,
+   "z_vs_50": 1.2,
+   "roi_at_-110": -0.0208
+  },
+  "3.0": {
+   "n": 1426,
+   "wins": 743,
+   "pct": 0.521,
+   "z_vs_50": 1.59,
+   "roi_at_-110": -0.0053
+  }
+ },
+ "brier_model": 0.22025173616541005,
+ "brier_close": 0.2105741585544193,
+ "calibration": [
+  {
+   "bin": 1,
+   "n": 51,
+   "pred": 0.168,
+   "actual": 0.275
+  },
+  {
+   "bin": 2,
+   "n": 223,
+   "pred": 0.261,
+   "actual": 0.307
+  },
+  {
+   "bin": 3,
+   "n": 512,
+   "pred": 0.356,
+   "actual": 0.341
+  },
+  {
+   "bin": 4,
+   "n": 798,
+   "pred": 0.453,
+   "actual": 0.432
+  },
+  {
+   "bin": 5,
+   "n": 1026,
+   "pred": 0.55,
+   "actual": 0.561
+  },
+  {
+   "bin": 6,
+   "n": 927,
+   "pred": 0.647,
+   "actual": 0.649
+  },
+  {
+   "bin": 7,
+   "n": 590,
+   "pred": 0.745,
+   "actual": 0.76
+  },
+  {
+   "bin": 8,
+   "n": 220,
+   "pred": 0.838,
+   "actual": 0.85
+  },
+  {
+   "bin": 9,
+   "n": 16,
+   "pred": 0.913,
+   "actual": 1.0
+  }
+ ],
+ "multiple_testing_note": "3 thresholds tested; Bonferroni alpha 0.05 -> per-test alpha 0.017 (|z| >= 2.39).",
+ "passes_bet_gate": false,
+ "verdict": "Model does NOT beat the close out of sample: verdicts are capped at LEAN; publish as research."
+}

@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+sandbox/
+data/raw/
+data/cache/
+site/public/
+content/out/*/frames/
+content/out/*/short.mp4

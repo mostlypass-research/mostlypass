@@ -1,0 +1,62 @@
+# Every number that drives verdicts lives here, versioned in git. Secrets never go here (see .env / GitHub Secrets).
+brand:
+  name: "Mostly Pass"                       # placeholder until the name is final
+  tagline: "Most games aren't bets."
+  category: "Betting research from the bookmaker's side of the counter: price first, prediction second"
+  # Founder line: deliberately EMPTY. No personal credential (e.g. "former oddsmaker") is published
+  # unless it is literally true of the author. The persona discussed on 2026-10-02 is fictional, so it stays out.
+  founder_line: ""
+  description: "Daily research on NFL betting prices: what the market implies, where the vig lives, where a transparent model disagrees, and why most games are a pass. Every signal timestamped. Every result published."
+  site_url: "https://mostlypass.pages.dev"  # becomes the real Cloudflare URL after first deploy
+  pages_project: "mostlypass"               # Cloudflare Pages project name
+  timezone: "America/New_York"
+
+sport:
+  key: "americanfootball_nfl"
+  short: "NFL"
+  season: 2026
+
+odds:
+  provider: "oddsapi"                       # forced to "fixture" in FIXTURE mode
+  # Morning snapshot: <=10 named books count as ONE region => 3 credits (h2h, spreads, totals).
+  morning_bookmakers: "pinnacle,draftkings,fanduel,betmgm,betrivers,bovada,betonlineag,lowvig"
+  markets: "h2h,spreads,totals"
+  closing_book: "pinnacle"                  # benchmark; if missing, NO verdicts (never substituted silently)
+  best_price_books: ["draftkings", "fanduel", "betmgm", "betrivers", "bovada", "betonlineag", "lowvig", "pinnacle"]
+  stale_minutes: 180                        # benchmark older than this => DATA WARNING, no BET
+  min_credits_warning: 100
+
+close:                                      # per-game closing-line capture (run_close.py, every 10 min)
+  final_window_min: 15                      # capture if kickoff is within this many minutes
+  safety_window_min: 45                     # capture once if kickoff within this and nothing captured yet
+  min_gap_min: 12                           # never two captures for the same game closer than this
+  stale_book_min: 30                        # Pinnacle last_update older than this => close flagged
+
+exchange:
+  polymarket_enabled: false                 # OFF: tag query returns futures, not game markets (2026-10-02 audit). Re-enable after fixing the query.
+  max_gap_vs_pinnacle: 0.12                 # Polymarket price further than this from Pinnacle fair => discarded as a mismatch
+  kalshi_enabled: false                     # Developer Agreement restricts redistribution
+
+model:
+  name: "elo_v0"
+  k: 20
+  home_field_elo: 48
+  mov_multiplier: true
+  elo_to_points: 25.0
+  spread_sd: 13.5
+  regress_preseason: 0.33
+  fit_seasons: 6
+
+qualify:
+  edge_threshold_bet: 0.030
+  edge_threshold_lean: 0.015
+  signal_markets: ["spreads"]               # only markets the backtest actually tested can produce signals
+  sanity_max_gap: 0.10                     # model vs vig-free Pinnacle gap above 10 pts => PASS + MODEL WARNING (likely missing info)
+  kelly_fraction: 0.25
+  max_stake_units: 1.0
+  max_bets_per_day: 4
+  require_backtest_pass: true               # closed gate => BET impossible
+  money: "PAPER"                            # PAPER until explicitly changed; printed on every record row
+
+content:
+  short_video: true                         # skipped automatically if ffmpeg is not installed

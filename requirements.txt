@@ -1,0 +1,8 @@
+pandas>=2.2,<3.1
+numpy>=1.26
+requests>=2.31
+pyyaml>=6.0
+matplotlib>=3.8
+markdown>=3.6
+pillow>=10.1
+tzdata>=2024.1

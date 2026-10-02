@@ -1,0 +1,34 @@
+name: 2-closing-line-capture
+on:
+  schedule:
+    - cron: "3-59/10 13-23 * * *"   # every 10 min, 09:03-19:53 ET (EDT)
+    - cron: "3-59/10 0-4 * * *"     # every 10 min, 20:03-00:53 ET (EDT)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: close
+  cancel-in-progress: false
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pandas requests pyyaml tzdata
+      - name: capture Pinnacle shortly before each kickoff
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python run_close.py
+      - name: commit (append-only data) and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A database/closes.csv database/odds_credits_close.csv
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "closing capture: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4 5; do git pull --rebase --quiet && git push --quiet && exit 0; sleep $((i*7)); done
+          echo "push failed after retries"; exit 1
