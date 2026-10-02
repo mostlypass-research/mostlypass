@@ -18,27 +18,39 @@ jobs:
     if: >-
       github.event_name == 'workflow_dispatch' ||
       (contains(github.event.issue.labels.*.name, 'approval') &&
-       github.event.comment.user.login == github.repository_owner &&
-       startsWith(github.event.comment.body, 'approve'))
+       github.event.comment.user.login == github.repository_owner)
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
       HAS_CF: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
       ISSUE_TITLE: ${{ github.event.issue.title }}
       INPUT_DATE: ${{ github.event.inputs.date }}
+      COMMENT_BODY: ${{ github.event.comment.body }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: is this an approval?
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          first=$(printf '%s' "$COMMENT_BODY" | tr -d '\r' | sed -n '/[^[:space:]]/{p;q;}' | tr '[:upper:]' '[:lower:]' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+          if printf '%s' "$first" | grep -Eq '^(approve|approved)[[:space:].!]*$'; then echo "ok=true" >> "$GITHUB_OUTPUT"; echo "approval received";
+          else echo "ok=false" >> "$GITHUB_OUTPUT"; echo "comment is not an approval: '$first' (nothing published)"; fi
+      - uses: actions/checkout@v5
+        if: steps.gate.outputs.ok == 'true'
+      - uses: actions/setup-python@v6
+        if: steps.gate.outputs.ok == 'true'
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+        if: steps.gate.outputs.ok == 'true'
       - name: publish (record + site); refuses fixture, stale or unvalidated packages
+        if: steps.gate.outputs.ok == 'true'
         run: |
           D="$INPUT_DATE"
           if [ -z "$D" ] && [ -n "$ISSUE_TITLE" ]; then D=$(echo "$ISSUE_TITLE" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1); fi
           if [ -z "$D" ]; then python run_publish.py --site-only; else python run_publish.py --date "$D"; fi
       - name: commit (append-only data) and push
+        if: steps.gate.outputs.ok == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -48,7 +60,7 @@ jobs:
           for i in 1 2 3 4 5; do git pull --rebase --quiet && git push --quiet && exit 0; sleep $((i*7)); done
           echo "push failed after retries"; exit 1
       - name: deploy website (Cloudflare Pages)
-        if: env.HAS_CF == 'true'
+        if: steps.gate.outputs.ok == 'true' && env.HAS_CF == 'true'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -57,7 +69,7 @@ jobs:
           npx --yes wrangler@4 pages project create "$PROJECT" --production-branch main >/dev/null 2>&1 || true
           npx --yes wrangler@4 pages deploy site/public --project-name "$PROJECT" --branch main --commit-dirty=true
       - name: close the approval issue
-        if: github.event_name == 'issue_comment'
+        if: steps.gate.outputs.ok == 'true' && github.event_name == 'issue_comment'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} -c "Published. Website updated."
