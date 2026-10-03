@@ -1,0 +1,28 @@
+MODE: LIVE
+DATE: 2026-10-03   NFL Week 4
+
+TODAY
+BET: 0   LEAN: 6   PASS: 9
+
+TOP SIGNAL (LEAN, PAPER):
+  Texans -3 +100 at pinnacle
+MARKET: Pinnacle vig-free +106 (48.6%)
+MODEL:  -134 (57.2%)   edge 7.2%   BET bar at -119 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Chicago Bears -3.5: model 69% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - Philadelphia Eagles +3.5: model 62% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - Jacksonville Jaguars +2.5: model 61% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - New York Giants +2.5: model 66% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - Seattle Seahawks -7.5: model 62% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - Washington Commanders +4.5: model 68% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 485
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals published: 4, none graded yet
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-03/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.

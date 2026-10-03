@@ -1,0 +1,14 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-10-03T15:06:46Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Chicago Bears -3.5: model 69% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Philadelphia Eagles +3.5: model 62% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Jacksonville Jaguars +2.5: model 61% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS",
+  "New York Giants +2.5: model 66% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Seattle Seahawks -7.5: model 62% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Washington Commanders +4.5: model 68% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}

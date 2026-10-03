@@ -1,0 +1,31 @@
+NFL Week 4 card, 2026-10-03.
+15 games priced. 0 bets, 6 paper signals, 9 passes.
+
+Most games aren't bets.
+Every line, every disagreement, every result: link in reply.
+
+=====
+
+Why we're passing on Lions @ Panthers:
+Pinnacle +4. Our model +3.4.
+Best edge on either side of the spread: -0.4%.
+That's noise, not an edge. The price is fair.
+
+=====
+
+This looks like an edge. It isn't.
+Jets @ Bears: market -3.5, our model -10.1.
+A gap that big usually means the model is missing something (a QB change, an injury), not that the sharp market is wrong.
+Automatic pass.
+
+=====
+
+Biggest model disagreement today (paper, not a bet):
+Texans -3 +100
+Pinnacle fair +106 · model -134
+Our model hasn't beaten closing lines yet, so we track it instead of betting it.
+
+=====
+
+Record (PAPER): BET: none (the model has not earned BETs) · LEAN paper signals published: 4, none graded yet
+Public, timestamped, append-only.
