@@ -1,0 +1,23 @@
+MODE: LIVE
+DATE: 2026-10-04   NFL Week 4
+
+TODAY
+BET: 0   LEAN: 2   PASS: 4
+
+TOP SIGNAL (LEAN, PAPER):
+  Raiders +4.5 +100 at draftkings
+MARKET: Pinnacle vig-free +105 (48.8%)
+MODEL:  -118 (54.0%)   edge 4.0%   BET bar at -104 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Seattle Seahawks -7.5: model 62% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 482
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals published: 4, none graded yet
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-04/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.

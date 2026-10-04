@@ -1,0 +1,9 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-10-04T18:19:30Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Seattle Seahawks -7.5: model 62% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
