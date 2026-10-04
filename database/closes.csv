@@ -1,0 +1,7 @@
+snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market,name,price,point,minutes_to_kickoff,book_age_min,capture_reason
+2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,h2h,Carolina Panthers,189,,27.2,0.1,safety
+2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,h2h,Detroit Lions,-213,,27.2,0.1,safety
+2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,spreads,Carolina Panthers,102,4.0,27.2,0.1,safety
+2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,spreads,Detroit Lions,-113,-4.0,27.2,0.1,safety
+2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,totals,Over,-116,51.5,27.2,0.1,safety
+2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,totals,Under,103,51.5,27.2,0.1,safety
