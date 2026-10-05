@@ -1,0 +1,5 @@
+signal_id,graded_ts,home_score,away_score,score_source,result,pl_units,close_price,close_line,close_ts,close_min_before,clv_prob,clv_points,close_note
+c8c2dc42b582,2026-10-05T11:14:17Z,26.0,29.0,nflverse,win,0.0,,,,,,,no close captured
+0da9222c07e4,2026-10-05T11:14:17Z,14.0,17.0,nflverse,win,0.0,,,,,,,no close captured
+f535292159ea,2026-10-05T11:14:17Z,30.0,34.0,nflverse,loss,-0.0,,,,,,,no close captured
+66632f9176cb,2026-10-05T11:14:17Z,27.0,30.0,nflverse,win,0.0,,,,,,,no close captured
