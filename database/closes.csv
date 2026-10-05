@@ -5,3 +5,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,spreads,Detroit Lions,-113,-4.0,27.2,0.1,safety
 2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,totals,Over,-116,51.5,27.2,0.1,safety
 2026-10-04T23:52:46Z,close,a73a76599a4f3422803e57bd8f61b626,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,pinnacle,2026-10-04T23:52:41Z,totals,Under,103,51.5,27.2,0.1,safety
+2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,h2h,Atlanta Falcons,-102,,31.4,0.1,safety
+2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,h2h,New Orleans Saints,-108,,31.4,0.1,safety
+2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,spreads,Atlanta Falcons,-116,1.5,31.4,0.1,safety
+2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,spreads,New Orleans Saints,105,-1.5,31.4,0.1,safety
+2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,totals,Over,-106,47.5,31.4,0.1,safety
+2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,totals,Under,-106,47.5,31.4,0.1,safety
