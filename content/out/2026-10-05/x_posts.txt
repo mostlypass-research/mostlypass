@@ -1,0 +1,17 @@
+NFL Week 4 card, 2026-10-05.
+1 games priced. 0 bets, 0 paper signals, 1 passes.
+
+Most games aren't bets.
+Every line, every disagreement, every result: link in reply.
+
+=====
+
+Why we're passing on Falcons @ Saints:
+Pinnacle -1.5. Our model -1.1.
+Best edge on either side of the spread: 0.7%.
+That's noise, not an edge. The price is fair.
+
+=====
+
+Record (PAPER): BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+Public, timestamped, append-only.

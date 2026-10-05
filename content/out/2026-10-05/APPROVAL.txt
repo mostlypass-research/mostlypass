@@ -1,0 +1,22 @@
+MODE: LIVE
+DATE: 2026-10-05   NFL Week 4
+
+TODAY
+BET: 0   LEAN: 0   PASS: 1
+
+TOP SIGNAL (PASS, PAPER):
+  Falcons +1.5 -102 at fanduel
+MARKET: Pinnacle vig-free -103 (50.7%)
+MODEL:  -105 (51.1%)   edge 0.7%   BET bar at +108 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: None
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 476
+VALIDATION: PASS
+CONTENT: READY (newsletter, 3 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-05/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
