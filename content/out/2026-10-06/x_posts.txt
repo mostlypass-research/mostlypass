@@ -1,0 +1,31 @@
+NFL Week 5 card, 2026-10-06.
+13 games priced. 0 bets, 7 paper signals, 6 passes.
+
+Most games aren't bets.
+Every line, every disagreement, every result: link in reply.
+
+=====
+
+Why we're passing on Texans @ Titans:
+Pinnacle +7. Our model +7.1.
+Best edge on either side of the spread: 0.4%.
+That's noise, not an edge. The price is fair.
+
+=====
+
+This looks like an edge. It isn't.
+Raiders @ Patriots: market -3.5, our model -8.7.
+A gap that big usually means the model is missing something (a QB change, an injury), not that the sharp market is wrong.
+Automatic pass.
+
+=====
+
+Biggest model disagreement today (paper, not a bet):
+Buccaneers +8 -105
+Pinnacle fair -107 · model -156
+Our model hasn't beaten closing lines yet, so we track it instead of betting it.
+
+=====
+
+Record (PAPER): BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+Public, timestamped, append-only.
