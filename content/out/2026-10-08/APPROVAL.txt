@@ -1,0 +1,27 @@
+MODE: LIVE
+DATE: 2026-10-08   NFL Week 5
+
+TODAY
+BET: 0   LEAN: 6   PASS: 9
+
+TOP SIGNAL (LEAN, PAPER):
+  Giants +3.5 +100 at lowvig
+MARKET: Pinnacle vig-free +104 (49.1%)
+MODEL:  -143 (58.8%)   edge 8.8%   BET bar at -126 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Tampa Bay Buccaneers +8: model 61% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS
+  - Minnesota Vikings -2: model 64% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS
+  - New England Patriots -4: model 63% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
+  - Baltimore Ravens +3.5: model 63% vs market 53%; gap too large, likely missing info (QB/injury); forced PASS
+  - Cleveland Browns +1.5: model 60% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 467
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-08/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
