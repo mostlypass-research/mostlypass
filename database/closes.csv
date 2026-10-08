@@ -11,3 +11,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,spreads,New Orleans Saints,105,-1.5,31.4,0.1,safety
 2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,totals,Over,-106,47.5,31.4,0.1,safety
 2026-10-05T23:43:37Z,close,8bd90781e17e6d97df3941063cedae1e,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,pinnacle,2026-10-05T23:43:33Z,totals,Under,-106,47.5,31.4,0.1,safety
+2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,h2h,Dallas Cowboys,-464,,36.1,0.0,safety
+2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,h2h,Tampa Bay Buccaneers,379,,36.1,0.0,safety
+2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,spreads,Dallas Cowboys,-108,-9.5,36.1,0.0,safety
+2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,spreads,Tampa Bay Buccaneers,-102,9.5,36.1,0.0,safety
+2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,totals,Over,-104,49.0,36.1,0.0,safety
+2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,totals,Under,-108,49.0,36.1,0.0,safety
