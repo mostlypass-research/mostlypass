@@ -1,0 +1,13 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-10-09T12:35:37Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Minnesota Vikings -2: model 64% vs market 52%; gap too large, likely missing info (QB/injury); forced PASS",
+  "New England Patriots -4: model 63% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Baltimore Ravens +3.5: model 63% vs market 53%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Cleveland Browns +2.5: model 63% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Miami Dolphins +6.5: model 60% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
