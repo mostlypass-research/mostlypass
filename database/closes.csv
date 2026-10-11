@@ -17,3 +17,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,spreads,Tampa Bay Buccaneers,-102,9.5,36.1,0.0,safety
 2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,totals,Over,-104,49.0,36.1,0.0,safety
 2026-10-08T23:38:56Z,close,259b5df9aa0d10257f56de78523495e0,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,pinnacle,2026-10-08T23:38:55Z,totals,Under,-108,49.0,36.1,0.0,safety
+2026-10-11T13:18:53Z,close,21b26266f3d78af02eb672e606275d95,2026-10-11T13:35:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2026-10-11T13:18:50Z,h2h,Jacksonville Jaguars,-391,,16.1,0.1,safety
+2026-10-11T13:18:53Z,close,21b26266f3d78af02eb672e606275d95,2026-10-11T13:35:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2026-10-11T13:18:50Z,h2h,Philadelphia Eagles,316,,16.1,0.1,safety
+2026-10-11T13:18:53Z,close,21b26266f3d78af02eb672e606275d95,2026-10-11T13:35:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2026-10-11T13:18:50Z,spreads,Jacksonville Jaguars,-108,-8.0,16.1,0.1,safety
+2026-10-11T13:18:53Z,close,21b26266f3d78af02eb672e606275d95,2026-10-11T13:35:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2026-10-11T13:18:50Z,spreads,Philadelphia Eagles,-102,8.0,16.1,0.1,safety
+2026-10-11T13:18:53Z,close,21b26266f3d78af02eb672e606275d95,2026-10-11T13:35:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2026-10-11T13:18:50Z,totals,Over,101,42.5,16.1,0.1,safety
+2026-10-11T13:18:53Z,close,21b26266f3d78af02eb672e606275d95,2026-10-11T13:35:00Z,Jacksonville Jaguars,Philadelphia Eagles,pinnacle,2026-10-11T13:18:50Z,totals,Under,-114,42.5,16.1,0.1,safety
