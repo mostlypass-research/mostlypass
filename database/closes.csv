@@ -155,3 +155,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,spreads,Seattle Seahawks,-105,-3.0,7.6,0.1,final
 2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,totals,Over,-108,47.0,7.6,0.1,final
 2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,totals,Under,-104,47.0,7.6,0.1,final
+2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,h2h,Atlanta Falcons,-171,,44.0,0.1,safety
+2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,h2h,Baltimore Ravens,154,,44.0,0.1,safety
+2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,spreads,Atlanta Falcons,106,-3.5,44.0,0.1,safety
+2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,spreads,Baltimore Ravens,-117,3.5,44.0,0.1,safety
+2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,totals,Over,-103,44.0,44.0,0.1,safety
+2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,totals,Under,-109,44.0,44.0,0.1,safety
