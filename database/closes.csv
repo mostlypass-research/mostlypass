@@ -143,3 +143,15 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,spreads,Seattle Seahawks,-105,-3.0,31.6,0.2,safety
 2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,totals,Over,-108,47.0,31.6,0.2,safety
 2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,totals,Under,-104,47.0,31.6,0.2,safety
+2026-10-11T20:17:26Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T20:17:23Z,h2h,Arizona Cardinals,203,,7.6,0.1,final
+2026-10-11T20:17:26Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T20:17:23Z,h2h,Detroit Lions,-237,,7.6,0.1,final
+2026-10-11T20:17:26Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T20:17:23Z,spreads,Arizona Cardinals,-113,5.5,7.6,0.1,final
+2026-10-11T20:17:26Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T20:17:23Z,spreads,Detroit Lions,102,-5.5,7.6,0.1,final
+2026-10-11T20:17:26Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T20:17:23Z,totals,Over,-113,54.5,7.6,0.1,final
+2026-10-11T20:17:26Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T20:17:23Z,totals,Under,101,54.5,7.6,0.1,final
+2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,h2h,San Francisco 49ers,144,,7.6,0.1,final
+2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,h2h,Seattle Seahawks,-164,,7.6,0.1,final
+2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,spreads,San Francisco 49ers,-105,3.0,7.6,0.1,final
+2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,spreads,Seattle Seahawks,-105,-3.0,7.6,0.1,final
+2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,totals,Over,-108,47.0,7.6,0.1,final
+2026-10-11T20:17:26Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T20:17:23Z,totals,Under,-104,47.0,7.6,0.1,final
