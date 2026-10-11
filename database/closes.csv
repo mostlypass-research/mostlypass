@@ -125,3 +125,21 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,spreads,Los Angeles Chargers,-108,3.5,28.9,0.2,safety
 2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,totals,Over,-114,41.5,28.9,0.2,safety
 2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,totals,Under,101,41.5,28.9,0.2,safety
+2026-10-11T19:53:27Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:53:16Z,h2h,Denver Broncos,-182,,11.6,0.2,final
+2026-10-11T19:53:27Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:53:16Z,h2h,Los Angeles Chargers,159,,11.6,0.2,final
+2026-10-11T19:53:27Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:53:16Z,spreads,Denver Broncos,100,-3.5,11.6,0.2,final
+2026-10-11T19:53:27Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:53:16Z,spreads,Los Angeles Chargers,-110,3.5,11.6,0.2,final
+2026-10-11T19:53:27Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:53:16Z,totals,Over,-114,41.5,11.6,0.2,final
+2026-10-11T19:53:27Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:53:16Z,totals,Under,101,41.5,11.6,0.2,final
+2026-10-11T19:53:27Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T19:53:16Z,h2h,Arizona Cardinals,203,,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T19:53:16Z,h2h,Detroit Lions,-237,,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T19:53:16Z,spreads,Arizona Cardinals,-113,5.5,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T19:53:16Z,spreads,Detroit Lions,102,-5.5,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T19:53:16Z,totals,Over,-113,54.5,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,f8e7f43f73aa983c5c99c189587f0118,2026-10-11T20:25:00Z,Arizona Cardinals,Detroit Lions,pinnacle,2026-10-11T19:53:16Z,totals,Under,101,54.5,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,h2h,San Francisco 49ers,144,,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,h2h,Seattle Seahawks,-164,,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,spreads,San Francisco 49ers,-105,3.0,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,spreads,Seattle Seahawks,-105,-3.0,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,totals,Over,-108,47.0,31.6,0.2,safety
+2026-10-11T19:53:27Z,close,8e5d515b10d8a5ffb324640ed60bcc55,2026-10-11T20:25:00Z,Seattle Seahawks,San Francisco 49ers,pinnacle,2026-10-11T19:53:16Z,totals,Under,-104,47.0,31.6,0.2,safety
