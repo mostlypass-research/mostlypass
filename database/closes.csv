@@ -119,3 +119,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-11T16:55:17Z,close,fbffd0b7722fd81d68d5d62472dc80e8,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,2026-10-11T16:55:14Z,spreads,Washington Commanders,105,-3.5,4.7,0.1,final
 2026-10-11T16:55:17Z,close,fbffd0b7722fd81d68d5d62472dc80e8,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,2026-10-11T16:55:14Z,totals,Over,-109,41.0,4.7,0.1,final
 2026-10-11T16:55:17Z,close,fbffd0b7722fd81d68d5d62472dc80e8,2026-10-11T17:00:00Z,Washington Commanders,New York Giants,pinnacle,2026-10-11T16:55:14Z,totals,Under,-103,41.0,4.7,0.1,final
+2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,h2h,Denver Broncos,-185,,28.9,0.2,safety
+2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,h2h,Los Angeles Chargers,162,,28.9,0.2,safety
+2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,spreads,Denver Broncos,-102,-3.5,28.9,0.2,safety
+2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,spreads,Los Angeles Chargers,-108,3.5,28.9,0.2,safety
+2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,totals,Over,-114,41.5,28.9,0.2,safety
+2026-10-11T19:36:08Z,close,d1d408fdfd272046fb517fe992a1c5a0,2026-10-11T20:05:00Z,Los Angeles Chargers,Denver Broncos,pinnacle,2026-10-11T19:35:54Z,totals,Under,101,41.5,28.9,0.2,safety
