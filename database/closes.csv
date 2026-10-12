@@ -161,3 +161,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,spreads,Baltimore Ravens,-117,3.5,44.0,0.1,safety
 2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,totals,Over,-103,44.0,44.0,0.1,safety
 2026-10-11T23:36:02Z,close,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-11T23:35:53Z,totals,Under,-109,44.0,44.0,0.1,safety
+2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,h2h,Buffalo Bills,155,,37.3,0.2,safety
+2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,h2h,Los Angeles Rams,-173,,37.3,0.2,safety
+2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,spreads,Buffalo Bills,-115,3.5,37.3,0.2,safety
+2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,spreads,Los Angeles Rams,104,-3.5,37.3,0.2,safety
+2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,totals,Over,-102,55.5,37.3,0.2,safety
+2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,totals,Under,-110,55.5,37.3,0.2,safety
