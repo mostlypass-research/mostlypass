@@ -167,3 +167,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,spreads,Los Angeles Rams,104,-3.5,37.3,0.2,safety
 2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,totals,Over,-102,55.5,37.3,0.2,safety
 2026-10-12T23:37:43Z,close,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T23:37:31Z,totals,Under,-110,55.5,37.3,0.2,safety
+2026-10-15T23:34:34Z,close,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-15T23:34:19Z,h2h,Denver Broncos,126,,40.4,0.2,safety
+2026-10-15T23:34:34Z,close,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-15T23:34:19Z,h2h,Seattle Seahawks,-140,,40.4,0.2,safety
+2026-10-15T23:34:34Z,close,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-15T23:34:19Z,spreads,Denver Broncos,-103,2.5,40.4,0.2,safety
+2026-10-15T23:34:34Z,close,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-15T23:34:19Z,spreads,Seattle Seahawks,-107,-2.5,40.4,0.2,safety
+2026-10-15T23:34:34Z,close,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-15T23:34:19Z,totals,Over,-107,40.5,40.4,0.2,safety
+2026-10-15T23:34:34Z,close,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-15T23:34:19Z,totals,Under,-105,40.5,40.4,0.2,safety
