@@ -263,3 +263,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-18T16:57:40Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:05:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:57:24Z,spreads,Tampa Bay Buccaneers,-102,2.5,7.3,0.3,final
 2026-10-18T16:57:40Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:05:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:57:24Z,totals,Over,106,38.5,7.3,0.3,final
 2026-10-18T16:57:40Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:05:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:57:24Z,totals,Under,-119,38.5,7.3,0.3,final
+2026-10-18T19:23:37Z,close,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,2026-10-18T19:23:26Z,h2h,Arizona Cardinals,599,,41.4,0.2,safety
+2026-10-18T19:23:37Z,close,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,2026-10-18T19:23:26Z,h2h,Los Angeles Rams,-800,,41.4,0.2,safety
+2026-10-18T19:23:37Z,close,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,2026-10-18T19:23:26Z,spreads,Arizona Cardinals,-123,13.5,41.4,0.2,safety
+2026-10-18T19:23:37Z,close,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,2026-10-18T19:23:26Z,spreads,Los Angeles Rams,111,-13.5,41.4,0.2,safety
+2026-10-18T19:23:37Z,close,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,2026-10-18T19:23:26Z,totals,Over,101,51.5,41.4,0.2,safety
+2026-10-18T19:23:37Z,close,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,pinnacle,2026-10-18T19:23:26Z,totals,Under,-114,51.5,41.4,0.2,safety
