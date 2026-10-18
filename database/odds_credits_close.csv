@@ -547,3 +547,5 @@ ts,endpoint,remaining,used,last
 2026-10-18T18:59:12Z,events,398,102,0
 2026-10-18T19:23:37Z,events,398,102,0
 2026-10-18T19:23:37Z,odds:close,395,105,3
+2026-10-18T19:52:36Z,events,395,105,0
+2026-10-18T19:52:36Z,odds:close,392,108,3
