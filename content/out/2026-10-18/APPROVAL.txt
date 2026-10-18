@@ -1,0 +1,27 @@
+MODE: LIVE
+DATE: 2026-10-18   NFL Week 6
+
+TODAY
+BET: 0   LEAN: 6   PASS: 7
+
+TOP SIGNAL (LEAN, PAPER):
+  Jaguars -2.5 -103 at pinnacle
+MARKET: Pinnacle vig-free +102 (49.5%)
+MODEL:  -145 (59.2%)   edge 8.4%   BET bar at -128 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - New England Patriots -7.5: model 62% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - New York Giants +1: model 66% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS
+  - Green Bay Packers -1: model 62% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS
+  - Philadelphia Eagles +3: model 72% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - San Francisco 49ers -7.5: model 62% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 407
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-18/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
