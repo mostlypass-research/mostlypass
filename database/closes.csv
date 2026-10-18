@@ -287,3 +287,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-18T19:52:36Z,close,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-18T19:52:34Z,spreads,Los Angeles Chargers,-119,8.0,32.4,0.0,safety
 2026-10-18T19:52:36Z,close,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-18T19:52:34Z,totals,Over,-105,41.5,32.4,0.0,safety
 2026-10-18T19:52:36Z,close,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-18T19:52:34Z,totals,Under,-107,41.5,32.4,0.0,safety
+2026-10-18T23:44:21Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-18T23:44:13Z,h2h,Dallas Cowboys,-106,,35.6,0.1,safety
+2026-10-18T23:44:21Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-18T23:44:13Z,h2h,Green Bay Packers,-104,,35.6,0.1,safety
+2026-10-18T23:44:21Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-18T23:44:13Z,spreads,Dallas Cowboys,102,-1.0,35.6,0.1,safety
+2026-10-18T23:44:21Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-18T23:44:13Z,spreads,Green Bay Packers,-113,1.0,35.6,0.1,safety
+2026-10-18T23:44:21Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-18T23:44:13Z,totals,Over,-113,53.5,35.6,0.1,safety
+2026-10-18T23:44:21Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-18T23:44:13Z,totals,Under,101,53.5,35.6,0.1,safety
