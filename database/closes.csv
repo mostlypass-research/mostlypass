@@ -179,3 +179,45 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-18T13:28:43Z,close,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:35:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-18T13:28:42Z,spreads,Jacksonville Jaguars,-105,-2.5,6.3,0.0,final
 2026-10-18T13:28:43Z,close,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:35:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-18T13:28:42Z,totals,Over,-102,42.5,6.3,0.0,final
 2026-10-18T13:28:43Z,close,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:35:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-18T13:28:42Z,totals,Under,-110,42.5,6.3,0.0,final
+2026-10-18T16:26:01Z,close,7c312fdf24fb35f58b0e07c2932cc997,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,2026-10-18T16:25:48Z,h2h,Atlanta Falcons,100,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,7c312fdf24fb35f58b0e07c2932cc997,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,2026-10-18T16:25:48Z,h2h,Chicago Bears,-110,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,7c312fdf24fb35f58b0e07c2932cc997,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,2026-10-18T16:25:48Z,spreads,Atlanta Falcons,-109,1.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,7c312fdf24fb35f58b0e07c2932cc997,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,2026-10-18T16:25:48Z,spreads,Chicago Bears,-101,-1.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,7c312fdf24fb35f58b0e07c2932cc997,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,2026-10-18T16:25:48Z,totals,Over,-102,51.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,7c312fdf24fb35f58b0e07c2932cc997,2026-10-18T17:00:00Z,Atlanta Falcons,Chicago Bears,pinnacle,2026-10-18T16:25:48Z,totals,Under,-110,51.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,e86227938fd3cf008fc5648fb5128344,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,2026-10-18T16:25:48Z,h2h,Baltimore Ravens,-170,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,e86227938fd3cf008fc5648fb5128344,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,2026-10-18T16:25:48Z,h2h,Cleveland Browns,153,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,e86227938fd3cf008fc5648fb5128344,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,2026-10-18T16:25:48Z,spreads,Baltimore Ravens,-114,-3.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,e86227938fd3cf008fc5648fb5128344,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,2026-10-18T16:25:48Z,spreads,Cleveland Browns,103,3.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,e86227938fd3cf008fc5648fb5128344,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,2026-10-18T16:25:48Z,totals,Over,-106,39.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,e86227938fd3cf008fc5648fb5128344,2026-10-18T17:00:00Z,Cleveland Browns,Baltimore Ravens,pinnacle,2026-10-18T16:25:48Z,totals,Under,-106,39.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-18T16:25:48Z,h2h,Carolina Panthers,-160,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-18T16:25:48Z,h2h,Philadelphia Eagles,143,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-18T16:25:48Z,spreads,Carolina Panthers,-104,-3.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-18T16:25:48Z,spreads,Philadelphia Eagles,-106,3.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-18T16:25:48Z,totals,Over,-109,39.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-18T16:25:48Z,totals,Under,-103,39.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-18T16:25:48Z,h2h,Indianapolis Colts,-289,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-18T16:25:48Z,h2h,Tennessee Titans,249,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-18T16:25:48Z,spreads,Indianapolis Colts,-102,-6.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-18T16:25:48Z,spreads,Tennessee Titans,-108,6.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-18T16:25:48Z,totals,Over,101,44.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-18T16:25:48Z,totals,Under,-114,44.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-18T16:25:48Z,h2h,New England Patriots,-345,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-18T16:25:48Z,h2h,New York Jets,292,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-18T16:25:48Z,spreads,New England Patriots,106,-7.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-18T16:25:48Z,spreads,New York Jets,-117,7.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-18T16:25:48Z,totals,Over,-103,42.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-18T16:25:48Z,totals,Under,-109,42.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,2026-10-18T16:25:48Z,h2h,New Orleans Saints,-107,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,2026-10-18T16:25:48Z,h2h,New York Giants,-104,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,2026-10-18T16:25:48Z,spreads,New Orleans Saints,100,-1.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,2026-10-18T16:25:48Z,spreads,New York Giants,-111,1.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,2026-10-18T16:25:48Z,totals,Over,-106,46.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,pinnacle,2026-10-18T16:25:48Z,totals,Under,-106,46.0,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:25:48Z,h2h,Pittsburgh Steelers,-135,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:25:48Z,h2h,Tampa Bay Buccaneers,122,,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:25:48Z,spreads,Pittsburgh Steelers,-106,-2.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:25:48Z,spreads,Tampa Bay Buccaneers,-104,2.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:25:48Z,totals,Over,101,38.5,34.0,0.2,safety
+2026-10-18T16:26:01Z,close,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-18T16:25:48Z,totals,Under,-113,38.5,34.0,0.2,safety
