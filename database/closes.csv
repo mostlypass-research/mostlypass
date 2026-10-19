@@ -299,3 +299,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-19T00:05:22Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-19T00:05:05Z,spreads,Green Bay Packers,-110,1.0,14.6,0.3,final
 2026-10-19T00:05:22Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-19T00:05:05Z,totals,Over,-112,53.5,14.6,0.3,final
 2026-10-19T00:05:22Z,close,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-19T00:05:05Z,totals,Under,-101,53.5,14.6,0.3,final
+2026-10-19T23:39:21Z,close,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-19T23:39:12Z,h2h,San Francisco 49ers,-341,,35.6,0.1,safety
+2026-10-19T23:39:21Z,close,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-19T23:39:12Z,h2h,Washington Commanders,289,,35.6,0.1,safety
+2026-10-19T23:39:21Z,close,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-19T23:39:12Z,spreads,San Francisco 49ers,112,-7.5,35.6,0.1,safety
+2026-10-19T23:39:21Z,close,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-19T23:39:12Z,spreads,Washington Commanders,-124,7.5,35.6,0.1,safety
+2026-10-19T23:39:21Z,close,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-19T23:39:12Z,totals,Over,103,52.0,35.6,0.1,safety
+2026-10-19T23:39:21Z,close,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-19T23:39:12Z,totals,Under,-116,52.0,35.6,0.1,safety
