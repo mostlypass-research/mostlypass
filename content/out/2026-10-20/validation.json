@@ -1,0 +1,14 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-10-20T12:54:08Z",
+ "errors": [],
+ "warnings": [
+  "San Francisco 49ers @ Atlanta Falcons: no pinnacle h2h line",
+  "San Francisco 49ers @ Atlanta Falcons: no pinnacle spreads line"
+ ],
+ "model_warnings": [
+  "Philadelphia Eagles +4.5: model 75% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Minnesota Vikings -6.5: model 62% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS",
+  "New England Patriots +3: model 60% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
