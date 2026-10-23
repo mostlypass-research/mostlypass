@@ -1,0 +1,11 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-10-23T12:51:55Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Philadelphia Eagles +4.5: model 75% vs market 52%; gap too large, likely missing info (QB/injury); forced PASS",
+  "San Francisco 49ers -3: model 61% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Minnesota Vikings -6.5: model 62% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}

@@ -1,0 +1,25 @@
+MODE: LIVE
+DATE: 2026-10-23   NFL Week 7
+
+TODAY
+BET: 0   LEAN: 8   PASS: 5
+
+TOP SIGNAL (LEAN, PAPER):
+  Broncos -4 -105 at lowvig
+MARKET: Pinnacle vig-free -104 (50.9%)
+MODEL:  -156 (60.9%)   edge 9.7%   BET bar at -138 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Philadelphia Eagles +4.5: model 75% vs market 52%; gap too large, likely missing info (QB/injury); forced PASS
+  - San Francisco 49ers -3: model 61% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - Minnesota Vikings -6.5: model 62% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 362
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-23/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
