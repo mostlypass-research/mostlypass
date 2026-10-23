@@ -317,3 +317,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-22T23:41:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:15:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-22T23:41:21Z,spreads,New England Patriots,-110,3.0,33.4,0.2,safety
 2026-10-22T23:41:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:15:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-22T23:41:21Z,totals,Over,-114,50.5,33.4,0.2,safety
 2026-10-22T23:41:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:15:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-22T23:41:21Z,totals,Under,101,50.5,33.4,0.2,safety
+2026-10-23T00:05:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:20:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-23T00:05:13Z,h2h,Chicago Bears,-154,,14.4,0.4,final
+2026-10-23T00:05:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:20:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-23T00:05:13Z,h2h,New England Patriots,138,,14.4,0.4,final
+2026-10-23T00:05:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:20:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-23T00:05:13Z,spreads,Chicago Bears,-101,-3.0,14.4,0.4,final
+2026-10-23T00:05:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:20:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-23T00:05:13Z,spreads,New England Patriots,-110,3.0,14.4,0.4,final
+2026-10-23T00:05:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:20:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-23T00:05:13Z,totals,Over,-112,50.5,14.4,0.4,final
+2026-10-23T00:05:35Z,close,ffebea881c1d7b2dfb85b3e590c35985,2026-10-23T00:20:00Z,Chicago Bears,New England Patriots,pinnacle,2026-10-23T00:05:13Z,totals,Under,100,50.5,14.4,0.4,final
