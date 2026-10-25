@@ -419,3 +419,21 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,spreads,Denver Broncos,-103,-4.5,35.5,0.2,safety
 2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,totals,Over,-114,44.0,35.5,0.2,safety
 2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,totals,Under,101,44.0,35.5,0.2,safety
+2026-10-25T19:54:52Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:54:49Z,h2h,Arizona Cardinals,186,,10.1,0.1,final
+2026-10-25T19:54:52Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:54:49Z,h2h,Denver Broncos,-210,,10.1,0.1,final
+2026-10-25T19:54:52Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:54:49Z,spreads,Arizona Cardinals,-107,4.5,10.1,0.1,final
+2026-10-25T19:54:52Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:54:49Z,spreads,Denver Broncos,-103,-4.5,10.1,0.1,final
+2026-10-25T19:54:52Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:54:49Z,totals,Over,-114,44.0,10.1,0.1,final
+2026-10-25T19:54:52Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:54:49Z,totals,Under,101,44.0,10.1,0.1,final
+2026-10-25T19:54:52Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:25:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T19:54:49Z,h2h,Detroit Lions,-194,,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:25:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T19:54:49Z,h2h,Green Bay Packers,173,,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:25:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T19:54:49Z,spreads,Detroit Lions,-115,-3.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:25:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T19:54:49Z,spreads,Green Bay Packers,104,3.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:25:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T19:54:49Z,totals,Over,-102,55.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:25:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T19:54:49Z,totals,Under,-110,55.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,h2h,Las Vegas Raiders,151,,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,h2h,Los Angeles Rams,-168,,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,spreads,Las Vegas Raiders,-118,3.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,spreads,Los Angeles Rams,107,-3.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,totals,Over,-117,48.5,30.1,0.1,safety
+2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,totals,Under,104,48.5,30.1,0.1,safety
