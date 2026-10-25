@@ -437,3 +437,15 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,spreads,Los Angeles Rams,107,-3.5,30.1,0.1,safety
 2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,totals,Over,-117,48.5,30.1,0.1,safety
 2026-10-25T19:54:52Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T19:54:49Z,totals,Under,104,48.5,30.1,0.1,safety
+2026-10-25T20:23:23Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T20:23:15Z,h2h,Las Vegas Raiders,150,,1.6,0.1,final
+2026-10-25T20:23:23Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T20:23:15Z,h2h,Los Angeles Rams,-167,,1.6,0.1,final
+2026-10-25T20:23:23Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T20:23:15Z,spreads,Las Vegas Raiders,-120,3.5,1.6,0.1,final
+2026-10-25T20:23:23Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T20:23:15Z,spreads,Los Angeles Rams,109,-3.5,1.6,0.1,final
+2026-10-25T20:23:23Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T20:23:15Z,totals,Over,-115,49.5,1.6,0.1,final
+2026-10-25T20:23:23Z,close,f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T20:25:00Z,Las Vegas Raiders,Los Angeles Rams,pinnacle,2026-10-25T20:23:15Z,totals,Under,103,49.5,1.6,0.1,final
+2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,h2h,Detroit Lions,-203,,4.6,0.1,final
+2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,h2h,Green Bay Packers,180,,4.6,0.1,final
+2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,spreads,Detroit Lions,-117,-3.5,4.6,0.1,final
+2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,spreads,Green Bay Packers,106,3.5,4.6,0.1,final
+2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,totals,Over,103,55.5,4.6,0.1,final
+2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,totals,Under,-115,55.5,4.6,0.1,final
