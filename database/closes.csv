@@ -413,3 +413,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,spreads,New York Jets,-107,-3.5,5.9,0.3,final
 2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,totals,Over,-106,39.5,5.9,0.3,final
 2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,totals,Under,-106,39.5,5.9,0.3,final
+2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,h2h,Arizona Cardinals,186,,35.5,0.2,safety
+2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,h2h,Denver Broncos,-210,,35.5,0.2,safety
+2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,spreads,Arizona Cardinals,-107,4.5,35.5,0.2,safety
+2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,spreads,Denver Broncos,-103,-4.5,35.5,0.2,safety
+2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,totals,Over,-114,44.0,35.5,0.2,safety
+2026-10-25T19:29:33Z,close,436119bb3ccdaa6ed7808aa3ebd82b76,2026-10-25T20:05:00Z,Arizona Cardinals,Denver Broncos,pinnacle,2026-10-25T19:29:18Z,totals,Under,101,44.0,35.5,0.2,safety
