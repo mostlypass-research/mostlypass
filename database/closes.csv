@@ -449,3 +449,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,spreads,Green Bay Packers,106,3.5,4.6,0.1,final
 2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,totals,Over,103,55.5,4.6,0.1,final
 2026-10-25T20:23:23Z,close,e8e5715eefb6a9ce64765e9ddf49c0cc,2026-10-25T20:28:00Z,Detroit Lions,Green Bay Packers,pinnacle,2026-10-25T20:23:15Z,totals,Under,-115,55.5,4.6,0.1,final
+2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,h2h,Kansas City Chiefs,136,,22.5,0.3,safety
+2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,h2h,Seattle Seahawks,-151,,22.5,0.3,safety
+2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,spreads,Kansas City Chiefs,-107,3.0,22.5,0.3,safety
+2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,spreads,Seattle Seahawks,-103,-3.0,22.5,0.3,safety
+2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,totals,Over,-110,43.0,22.5,0.3,safety
+2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,totals,Under,-102,43.0,22.5,0.3,safety
