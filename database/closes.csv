@@ -371,3 +371,45 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-25T16:26:21Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:00:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:26:15Z,spreads,New York Jets,102,-3.5,33.6,0.1,safety
 2026-10-25T16:26:21Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:00:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:26:15Z,totals,Over,-105,39.5,33.6,0.1,safety
 2026-10-25T16:26:21Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:00:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:26:15Z,totals,Under,-107,39.5,33.6,0.1,safety
+2026-10-25T16:59:05Z,close,b1be064fb52a198a62109c279e7ab24c,2026-10-25T17:05:00Z,Atlanta Falcons,San Francisco 49ers,pinnacle,2026-10-25T16:58:46Z,h2h,Atlanta Falcons,127,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,b1be064fb52a198a62109c279e7ab24c,2026-10-25T17:05:00Z,Atlanta Falcons,San Francisco 49ers,pinnacle,2026-10-25T16:58:46Z,h2h,San Francisco 49ers,-141,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,b1be064fb52a198a62109c279e7ab24c,2026-10-25T17:05:00Z,Atlanta Falcons,San Francisco 49ers,pinnacle,2026-10-25T16:58:46Z,spreads,Atlanta Falcons,101,2.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,b1be064fb52a198a62109c279e7ab24c,2026-10-25T17:05:00Z,Atlanta Falcons,San Francisco 49ers,pinnacle,2026-10-25T16:58:46Z,spreads,San Francisco 49ers,-112,-2.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,b1be064fb52a198a62109c279e7ab24c,2026-10-25T17:05:00Z,Atlanta Falcons,San Francisco 49ers,pinnacle,2026-10-25T16:58:46Z,totals,Over,101,50.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,b1be064fb52a198a62109c279e7ab24c,2026-10-25T17:05:00Z,Atlanta Falcons,San Francisco 49ers,pinnacle,2026-10-25T16:58:46Z,totals,Under,-113,50.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,550ec5290f935d311995affbcb0b5c79,2026-10-25T17:05:00Z,Baltimore Ravens,Cincinnati Bengals,pinnacle,2026-10-25T16:58:46Z,h2h,Baltimore Ravens,145,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,550ec5290f935d311995affbcb0b5c79,2026-10-25T17:05:00Z,Baltimore Ravens,Cincinnati Bengals,pinnacle,2026-10-25T16:58:46Z,h2h,Cincinnati Bengals,-161,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,550ec5290f935d311995affbcb0b5c79,2026-10-25T17:05:00Z,Baltimore Ravens,Cincinnati Bengals,pinnacle,2026-10-25T16:58:46Z,spreads,Baltimore Ravens,-107,3.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,550ec5290f935d311995affbcb0b5c79,2026-10-25T17:05:00Z,Baltimore Ravens,Cincinnati Bengals,pinnacle,2026-10-25T16:58:46Z,spreads,Cincinnati Bengals,-103,-3.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,550ec5290f935d311995affbcb0b5c79,2026-10-25T17:05:00Z,Baltimore Ravens,Cincinnati Bengals,pinnacle,2026-10-25T16:58:46Z,totals,Over,-116,46.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,550ec5290f935d311995affbcb0b5c79,2026-10-25T17:05:00Z,Baltimore Ravens,Cincinnati Bengals,pinnacle,2026-10-25T16:58:46Z,totals,Under,103,46.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2823e986597c449ab94126cd5ed3fae9,2026-10-25T17:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,pinnacle,2026-10-25T16:58:46Z,h2h,Carolina Panthers,-158,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2823e986597c449ab94126cd5ed3fae9,2026-10-25T17:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,pinnacle,2026-10-25T16:58:46Z,h2h,Tampa Bay Buccaneers,142,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2823e986597c449ab94126cd5ed3fae9,2026-10-25T17:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,pinnacle,2026-10-25T16:58:46Z,spreads,Carolina Panthers,-101,-3.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2823e986597c449ab94126cd5ed3fae9,2026-10-25T17:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,pinnacle,2026-10-25T16:58:46Z,spreads,Tampa Bay Buccaneers,-109,3.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2823e986597c449ab94126cd5ed3fae9,2026-10-25T17:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,pinnacle,2026-10-25T16:58:46Z,totals,Over,-105,45.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2823e986597c449ab94126cd5ed3fae9,2026-10-25T17:05:00Z,Carolina Panthers,Tampa Bay Buccaneers,pinnacle,2026-10-25T16:58:46Z,totals,Under,-107,45.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,5dce18baccec5d3ad5fb3a3ce52f7619,2026-10-25T17:05:00Z,Tennessee Titans,Cleveland Browns,pinnacle,2026-10-25T16:58:46Z,h2h,Cleveland Browns,-124,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,5dce18baccec5d3ad5fb3a3ce52f7619,2026-10-25T17:05:00Z,Tennessee Titans,Cleveland Browns,pinnacle,2026-10-25T16:58:46Z,h2h,Tennessee Titans,112,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,5dce18baccec5d3ad5fb3a3ce52f7619,2026-10-25T17:05:00Z,Tennessee Titans,Cleveland Browns,pinnacle,2026-10-25T16:58:46Z,spreads,Cleveland Browns,-107,-1.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,5dce18baccec5d3ad5fb3a3ce52f7619,2026-10-25T17:05:00Z,Tennessee Titans,Cleveland Browns,pinnacle,2026-10-25T16:58:46Z,spreads,Tennessee Titans,-103,1.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,5dce18baccec5d3ad5fb3a3ce52f7619,2026-10-25T17:05:00Z,Tennessee Titans,Cleveland Browns,pinnacle,2026-10-25T16:58:46Z,totals,Over,-102,37.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,5dce18baccec5d3ad5fb3a3ce52f7619,2026-10-25T17:05:00Z,Tennessee Titans,Cleveland Browns,pinnacle,2026-10-25T16:58:46Z,totals,Under,-110,37.0,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2bba7fde6f97d0e54403d53676e4ab63,2026-10-25T17:05:00Z,Houston Texans,New York Giants,pinnacle,2026-10-25T16:58:46Z,h2h,Houston Texans,-426,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2bba7fde6f97d0e54403d53676e4ab63,2026-10-25T17:05:00Z,Houston Texans,New York Giants,pinnacle,2026-10-25T16:58:46Z,h2h,New York Giants,352,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2bba7fde6f97d0e54403d53676e4ab63,2026-10-25T17:05:00Z,Houston Texans,New York Giants,pinnacle,2026-10-25T16:58:46Z,spreads,Houston Texans,103,-10.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2bba7fde6f97d0e54403d53676e4ab63,2026-10-25T17:05:00Z,Houston Texans,New York Giants,pinnacle,2026-10-25T16:58:46Z,spreads,New York Giants,-114,10.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2bba7fde6f97d0e54403d53676e4ab63,2026-10-25T17:05:00Z,Houston Texans,New York Giants,pinnacle,2026-10-25T16:58:46Z,totals,Over,101,43.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,2bba7fde6f97d0e54403d53676e4ab63,2026-10-25T17:05:00Z,Houston Texans,New York Giants,pinnacle,2026-10-25T16:58:46Z,totals,Under,-114,43.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,f3992ad4496724baf7dcd1ef58245d6b,2026-10-25T17:05:00Z,Minnesota Vikings,Indianapolis Colts,pinnacle,2026-10-25T16:58:46Z,h2h,Indianapolis Colts,277,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,f3992ad4496724baf7dcd1ef58245d6b,2026-10-25T17:05:00Z,Minnesota Vikings,Indianapolis Colts,pinnacle,2026-10-25T16:58:46Z,h2h,Minnesota Vikings,-325,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,f3992ad4496724baf7dcd1ef58245d6b,2026-10-25T17:05:00Z,Minnesota Vikings,Indianapolis Colts,pinnacle,2026-10-25T16:58:46Z,spreads,Indianapolis Colts,-116,7.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,f3992ad4496724baf7dcd1ef58245d6b,2026-10-25T17:05:00Z,Minnesota Vikings,Indianapolis Colts,pinnacle,2026-10-25T16:58:46Z,spreads,Minnesota Vikings,105,-7.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,f3992ad4496724baf7dcd1ef58245d6b,2026-10-25T17:05:00Z,Minnesota Vikings,Indianapolis Colts,pinnacle,2026-10-25T16:58:46Z,totals,Over,102,42.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,f3992ad4496724baf7dcd1ef58245d6b,2026-10-25T17:05:00Z,Minnesota Vikings,Indianapolis Colts,pinnacle,2026-10-25T16:58:46Z,totals,Under,-115,42.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,h2h,Miami Dolphins,173,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,h2h,New York Jets,-195,,5.9,0.3,final
+2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,spreads,Miami Dolphins,-103,3.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,spreads,New York Jets,-107,-3.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,totals,Over,-106,39.5,5.9,0.3,final
+2026-10-25T16:59:05Z,close,be5dd120ca08b43d647b6caa8953500a,2026-10-25T17:05:00Z,New York Jets,Miami Dolphins,pinnacle,2026-10-25T16:58:46Z,totals,Under,-106,39.5,5.9,0.3,final
