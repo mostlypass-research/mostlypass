@@ -1,0 +1,17 @@
+NFL Week 7 card, 2026-10-26.
+1 games priced. 0 bets, 0 paper signals, 1 passes.
+
+Most games aren't bets.
+Every line, every disagreement, every result: link in reply.
+
+=====
+
+This looks like an edge. It isn't.
+Cowboys @ Eagles: market +4.5, our model -4.6.
+A gap that big usually means the model is missing something (a QB change, an injury), not that the sharp market is wrong.
+Automatic pass.
+
+=====
+
+Record (PAPER): BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+Public, timestamped, append-only.
