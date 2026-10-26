@@ -455,3 +455,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,spreads,Seattle Seahawks,-103,-3.0,22.5,0.3,safety
 2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,totals,Over,-110,43.0,22.5,0.3,safety
 2026-10-25T23:59:28Z,close,176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-26T00:22:00Z,Seattle Seahawks,Kansas City Chiefs,pinnacle,2026-10-25T23:59:09Z,totals,Under,-102,43.0,22.5,0.3,safety
+2026-10-26T23:45:04Z,close,4853610e63c246f2027a6a248e642c9a,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,pinnacle,2026-10-26T23:44:51Z,h2h,Dallas Cowboys,-207,,29.9,0.2,safety
+2026-10-26T23:45:04Z,close,4853610e63c246f2027a6a248e642c9a,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,pinnacle,2026-10-26T23:44:51Z,h2h,Philadelphia Eagles,183,,29.9,0.2,safety
+2026-10-26T23:45:04Z,close,4853610e63c246f2027a6a248e642c9a,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,pinnacle,2026-10-26T23:44:51Z,spreads,Dallas Cowboys,-105,-4.0,29.9,0.2,safety
+2026-10-26T23:45:04Z,close,4853610e63c246f2027a6a248e642c9a,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,pinnacle,2026-10-26T23:44:51Z,spreads,Philadelphia Eagles,-105,4.0,29.9,0.2,safety
+2026-10-26T23:45:04Z,close,4853610e63c246f2027a6a248e642c9a,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,pinnacle,2026-10-26T23:44:51Z,totals,Over,-107,43.5,29.9,0.2,safety
+2026-10-26T23:45:04Z,close,4853610e63c246f2027a6a248e642c9a,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,pinnacle,2026-10-26T23:44:51Z,totals,Under,-105,43.5,29.9,0.2,safety
