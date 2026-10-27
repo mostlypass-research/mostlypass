@@ -1,0 +1,19 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-10-27T12:55:11Z",
+ "errors": [],
+ "warnings": [
+  "Arizona Cardinals @ Dallas Cowboys: no pinnacle h2h line",
+  "Arizona Cardinals @ Dallas Cowboys: no pinnacle spreads line",
+  "Philadelphia Eagles @ Washington Commanders: no pinnacle h2h line",
+  "Philadelphia Eagles @ Washington Commanders: no pinnacle spreads line",
+  "Baltimore Ravens @ Buffalo Bills: no pinnacle h2h line",
+  "Baltimore Ravens @ Buffalo Bills: no pinnacle spreads line",
+  "Kansas City Chiefs @ Denver Broncos: no pinnacle h2h line",
+  "Kansas City Chiefs @ Denver Broncos: no pinnacle spreads line"
+ ],
+ "model_warnings": [
+  "Minnesota Vikings +3: model 61% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Seattle Seahawks -3.5: model 57% vs market 46%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
