@@ -1,0 +1,27 @@
+MODE: LIVE
+DATE: 2026-10-30   NFL Week 8
+
+TODAY
+BET: 0   LEAN: 3   PASS: 10
+
+TOP SIGNAL (LEAN, PAPER):
+  Rams -7 +108 at pinnacle
+MARKET: Pinnacle vig-free +114 (46.7%)
+MODEL:  -127 (56.0%)   edge 7.9%   BET bar at -113 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Minnesota Vikings +3: model 61% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - Seattle Seahawks -3.5: model 57% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - Philadelphia Eagles +6: model 67% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS
+  - Buffalo Bills -3.5: model 62% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+  - Denver Broncos +1.5: model 67% vs market 52%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 308
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-10-30/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
