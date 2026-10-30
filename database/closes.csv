@@ -473,3 +473,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-29T23:33:30Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:15:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-29T23:33:19Z,spreads,Green Bay Packers,-106,-3.5,41.5,0.2,safety
 2026-10-29T23:33:30Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:15:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-29T23:33:19Z,totals,Over,-109,47.0,41.5,0.2,safety
 2026-10-29T23:33:30Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:15:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-29T23:33:19Z,totals,Under,-103,47.0,41.5,0.2,safety
+2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,h2h,Carolina Panthers,166,,4.8,0.1,final
+2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,h2h,Green Bay Packers,-186,,4.8,0.1,final
+2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,spreads,Carolina Panthers,-105,3.5,4.8,0.1,final
+2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,spreads,Green Bay Packers,-105,-3.5,4.8,0.1,final
+2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,totals,Over,-102,47.5,4.8,0.1,final
+2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,totals,Under,-110,47.5,4.8,0.1,final
