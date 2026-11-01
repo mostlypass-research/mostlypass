@@ -479,3 +479,21 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,spreads,Green Bay Packers,-105,-3.5,4.8,0.1,final
 2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,totals,Over,-102,47.5,4.8,0.1,final
 2026-10-30T00:13:15Z,close,ab2865e9f2d4b012de8bc6fb6de11a7c,2026-10-30T00:18:00Z,Green Bay Packers,Carolina Panthers,pinnacle,2026-10-30T00:13:07Z,totals,Under,-110,47.5,4.8,0.1,final
+2026-11-01T21:04:23Z,close,2ff84d3f6053d083c8c0a5bebf7cdd4c,2026-11-01T21:10:00Z,Los Angeles Rams,Los Angeles Chargers,pinnacle,2026-11-01T21:04:21Z,h2h,Los Angeles Chargers,254,,5.6,0.0,final
+2026-11-01T21:04:23Z,close,2ff84d3f6053d083c8c0a5bebf7cdd4c,2026-11-01T21:10:00Z,Los Angeles Rams,Los Angeles Chargers,pinnacle,2026-11-01T21:04:21Z,h2h,Los Angeles Rams,-294,,5.6,0.0,final
+2026-11-01T21:04:23Z,close,2ff84d3f6053d083c8c0a5bebf7cdd4c,2026-11-01T21:10:00Z,Los Angeles Rams,Los Angeles Chargers,pinnacle,2026-11-01T21:04:21Z,spreads,Los Angeles Chargers,-103,6.5,5.6,0.0,final
+2026-11-01T21:04:23Z,close,2ff84d3f6053d083c8c0a5bebf7cdd4c,2026-11-01T21:10:00Z,Los Angeles Rams,Los Angeles Chargers,pinnacle,2026-11-01T21:04:21Z,spreads,Los Angeles Rams,-107,-6.5,5.6,0.0,final
+2026-11-01T21:04:23Z,close,2ff84d3f6053d083c8c0a5bebf7cdd4c,2026-11-01T21:10:00Z,Los Angeles Rams,Los Angeles Chargers,pinnacle,2026-11-01T21:04:21Z,totals,Over,-114,46.0,5.6,0.0,final
+2026-11-01T21:04:23Z,close,2ff84d3f6053d083c8c0a5bebf7cdd4c,2026-11-01T21:10:00Z,Los Angeles Rams,Los Angeles Chargers,pinnacle,2026-11-01T21:04:21Z,totals,Under,102,46.0,5.6,0.0,final
+2026-11-01T21:04:23Z,close,f2a036d5edf483a277880014861e78ad,2026-11-01T21:25:00Z,Denver Broncos,Kansas City Chiefs,pinnacle,2026-11-01T21:04:21Z,h2h,Denver Broncos,-110,,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,f2a036d5edf483a277880014861e78ad,2026-11-01T21:25:00Z,Denver Broncos,Kansas City Chiefs,pinnacle,2026-11-01T21:04:21Z,h2h,Kansas City Chiefs,100,,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,f2a036d5edf483a277880014861e78ad,2026-11-01T21:25:00Z,Denver Broncos,Kansas City Chiefs,pinnacle,2026-11-01T21:04:21Z,spreads,Denver Broncos,-119,1.0,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,f2a036d5edf483a277880014861e78ad,2026-11-01T21:25:00Z,Denver Broncos,Kansas City Chiefs,pinnacle,2026-11-01T21:04:21Z,spreads,Kansas City Chiefs,108,-1.0,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,f2a036d5edf483a277880014861e78ad,2026-11-01T21:25:00Z,Denver Broncos,Kansas City Chiefs,pinnacle,2026-11-01T21:04:21Z,totals,Over,-113,41.5,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,f2a036d5edf483a277880014861e78ad,2026-11-01T21:25:00Z,Denver Broncos,Kansas City Chiefs,pinnacle,2026-11-01T21:04:21Z,totals,Under,101,41.5,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,h2h,Miami Dolphins,297,,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,h2h,New England Patriots,-351,,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,spreads,Miami Dolphins,103,6.5,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,spreads,New England Patriots,-114,-6.5,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,totals,Over,104,41.5,20.6,0.0,safety
+2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,totals,Under,-117,41.5,20.6,0.0,safety
