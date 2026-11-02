@@ -497,3 +497,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,spreads,New England Patriots,-114,-6.5,20.6,0.0,safety
 2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,totals,Over,104,41.5,20.6,0.0,safety
 2026-11-01T21:04:23Z,close,05405af79752f5e742cdf50b61f6745e,2026-11-01T21:25:00Z,Miami Dolphins,New England Patriots,pinnacle,2026-11-01T21:04:21Z,totals,Under,-117,41.5,20.6,0.0,safety
+2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,h2h,Philadelphia Eagles,209,,37.7,0.1,safety
+2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,h2h,Washington Commanders,-238,,37.7,0.1,safety
+2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,spreads,Philadelphia Eagles,-105,5.5,37.7,0.1,safety
+2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,spreads,Washington Commanders,-105,-5.5,37.7,0.1,safety
+2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,totals,Over,-103,40.5,37.7,0.1,safety
+2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,totals,Under,-109,40.5,37.7,0.1,safety
