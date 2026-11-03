@@ -1,0 +1,15 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-11-03T19:30:36Z",
+ "errors": [],
+ "warnings": [
+  "Jacksonville Jaguars @ Baltimore Ravens: no pinnacle h2h line",
+  "Jacksonville Jaguars @ Baltimore Ravens: no pinnacle spreads line"
+ ],
+ "model_warnings": [
+  "Denver Broncos -3: model 61% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Minnesota Vikings +3: model 58% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Indianapolis Colts +5.5: model 66% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Philadelphia Eagles +3: model 61% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}

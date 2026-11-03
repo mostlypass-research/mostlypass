@@ -1,0 +1,28 @@
+MODE: LIVE
+DATE: 2026-11-03   NFL Week 9
+
+TODAY
+BET: 0   LEAN: 7   PASS: 7
+
+TOP SIGNAL (LEAN, PAPER):
+  Seahawks -11 +100 at lowvig
+MARKET: Pinnacle vig-free -100 (50.0%)
+MODEL:  -115 (53.4%)   edge 3.4%   BET bar at -102 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Denver Broncos -3: model 61% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
+  - Minnesota Vikings +3: model 58% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
+  - Indianapolis Colts +5.5: model 66% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
+  - Philadelphia Eagles +3: model 61% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: 
+  - Jacksonville Jaguars @ Baltimore Ravens: no pinnacle h2h line
+  - Jacksonville Jaguars @ Baltimore Ravens: no pinnacle spreads line
+ODDS API CREDITS LEFT: 485
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-03/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
