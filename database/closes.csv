@@ -503,3 +503,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,spreads,Washington Commanders,-105,-5.5,37.7,0.1,safety
 2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,totals,Over,-103,40.5,37.7,0.1,safety
 2026-11-02T00:42:18Z,close,b9c60db63b1a19ad319f24b33c0defe8,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,pinnacle,2026-11-02T00:42:12Z,totals,Under,-109,40.5,37.7,0.1,safety
+2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,h2h,Baltimore Ravens,313,,7.0,0.4,final
+2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,h2h,Jacksonville Jaguars,-373,,7.0,0.4,final
+2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,spreads,Baltimore Ravens,-127,10.0,7.0,0.4,final
+2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,spreads,Jacksonville Jaguars,115,-10.0,7.0,0.4,final
+2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,totals,Over,-110,39.5,7.0,0.4,final
+2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,totals,Under,-102,39.5,7.0,0.4,final
