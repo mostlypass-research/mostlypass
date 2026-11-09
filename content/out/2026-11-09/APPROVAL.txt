@@ -1,0 +1,23 @@
+MODE: LIVE
+DATE: 2026-11-09   NFL Week 9
+
+TODAY
+BET: 0   LEAN: 0   PASS: 1
+
+TOP SIGNAL (PASS, PAPER):
+  Vikings ML +169 at lowvig
+MARKET: Pinnacle vig-free +172 (36.8%)
+MODEL:  +104 (49.1%)   edge 11.9%   BET bar at +117 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Minnesota Vikings +3: model 58% vs market 47%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 464
+VALIDATION: PASS
+CONTENT: READY (newsletter, 3 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-09/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
