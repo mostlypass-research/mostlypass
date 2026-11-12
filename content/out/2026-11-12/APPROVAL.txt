@@ -1,0 +1,23 @@
+MODE: LIVE
+DATE: 2026-11-12   NFL Week 10
+
+TODAY
+BET: 0   LEAN: 11   PASS: 3
+
+TOP SIGNAL (LEAN, PAPER):
+  Ravens -4.5 +100 at pinnacle
+MARKET: Pinnacle vig-free +106 (48.5%)
+MODEL:  -124 (55.4%)   edge 5.3%   BET bar at -110 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Buffalo Bills -8.5: model 65% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 455
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-12/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
