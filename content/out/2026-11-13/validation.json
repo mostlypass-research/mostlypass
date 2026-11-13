@@ -1,0 +1,9 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-11-13T19:42:08Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Buffalo Bills -8.5: model 65% vs market 48%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
