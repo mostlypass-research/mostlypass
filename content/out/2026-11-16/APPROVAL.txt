@@ -1,0 +1,22 @@
+MODE: LIVE
+DATE: 2026-11-16   NFL Week 10
+
+TODAY
+BET: 0   LEAN: 1   PASS: 0
+
+TOP SIGNAL (LEAN, PAPER):
+  Ravens -4.5 -104 at pinnacle
+MARKET: Pinnacle vig-free +101 (49.8%)
+MODEL:  -124 (55.4%)   edge 4.4%   BET bar at -110 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: None
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 443
+VALIDATION: PASS
+CONTENT: READY (newsletter, 3 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-16/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
