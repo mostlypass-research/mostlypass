@@ -1,0 +1,10 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-11-17T20:55:48Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Arizona Cardinals +16: model 63% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Indianapolis Colts +13: model 66% vs market 53%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
