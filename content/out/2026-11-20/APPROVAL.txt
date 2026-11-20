@@ -1,0 +1,23 @@
+MODE: LIVE
+DATE: 2026-11-20   NFL Week 11
+
+TODAY
+BET: 0   LEAN: 4   PASS: 8
+
+TOP SIGNAL (LEAN, PAPER):
+  Broncos -10.5 +100 at lowvig
+MARKET: Pinnacle vig-free +102 (49.5%)
+MODEL:  -132 (56.9%)   edge 6.9%   BET bar at -117 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Arizona Cardinals +16.5: model 65% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 431
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-20/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
