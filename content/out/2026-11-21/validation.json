@@ -1,0 +1,10 @@
+{
+ "mode": "LIVE",
+ "created_utc": "2026-11-21T19:15:21Z",
+ "errors": [],
+ "warnings": [],
+ "model_warnings": [
+  "Arizona Cardinals +16.5: model 65% vs market 53%; gap too large, likely missing info (QB/injury); forced PASS",
+  "Detroit Lions -4.5: model 59% vs market 49%; gap too large, likely missing info (QB/injury); forced PASS"
+ ]
+}
