@@ -1,0 +1,22 @@
+MODE: LIVE
+DATE: 2026-11-22   NFL Week 11
+
+TODAY
+BET: 0   LEAN: 2   PASS: 3
+
+TOP SIGNAL (LEAN, PAPER):
+  Broncos -11.5 +100 at pinnacle
+MARKET: Pinnacle vig-free +105 (48.8%)
+MODEL:  -117 (54.0%)   edge 4.0%   BET bar at -104 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: None
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 425
+VALIDATION: PASS
+CONTENT: READY (newsletter, 4 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-22/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.
