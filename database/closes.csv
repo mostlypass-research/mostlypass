@@ -509,3 +509,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,spreads,Jacksonville Jaguars,115,-10.0,7.0,0.4,final
 2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,totals,Over,-110,39.5,7.0,0.4,final
 2026-11-06T01:08:03Z,close,c75744790b7acf6260c78ba5e739c0e5,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,pinnacle,2026-11-06T01:07:41Z,totals,Under,-102,39.5,7.0,0.4,final
+2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,h2h,Minnesota Vikings,189,,26.9,0.0,safety
+2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,h2h,San Francisco 49ers,-213,,26.9,0.0,safety
+2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,spreads,Minnesota Vikings,108,3.5,26.9,0.0,safety
+2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,spreads,San Francisco 49ers,-119,-3.5,26.9,0.0,safety
+2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,totals,Over,-105,45.0,26.9,0.0,safety
+2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,totals,Under,-107,45.0,26.9,0.0,safety
