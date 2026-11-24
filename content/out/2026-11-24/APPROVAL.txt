@@ -1,0 +1,28 @@
+MODE: LIVE
+DATE: 2026-11-24   NFL Week 12
+
+TODAY
+BET: 0   LEAN: 7   PASS: 9
+
+TOP SIGNAL (LEAN, PAPER):
+  Vikings -7 +106 at lowvig
+MARKET: Pinnacle vig-free +105 (48.9%)
+MODEL:  -134 (57.2%)   edge 8.6%   BET bar at -118 or better
+POLYMARKET: n/a
+
+BACKTEST GATE: CLOSED (BET impossible)
+MODEL WARNINGS: 
+  - Miami Dolphins +3.5: model 67% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - Arizona Cardinals +7.5: model 65% vs market 53%; gap too large, likely missing info (QB/injury); forced PASS
+  - Detroit Lions +2.5: model 64% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - New England Patriots +1: model 67% vs market 51%; gap too large, likely missing info (QB/injury); forced PASS
+  - Indianapolis Colts +6.5: model 62% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+  - Philadelphia Eagles +8.5: model 64% vs market 50%; gap too large, likely missing info (QB/injury); forced PASS
+DATA WARNINGS: None
+ODDS API CREDITS LEFT: 413
+VALIDATION: PASS
+CONTENT: READY (newsletter, 5 X posts, short: yes)
+RECORD: BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+SHORT (review only, not posted anywhere): https://github.com/mostlypass-research/mostlypass/raw/main/content/out/2026-11-24/short.mp4
+
+STATUS: AWAITING APPROVAL. Comment exactly  approve  on this issue to publish. Do nothing to hold.

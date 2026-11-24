@@ -1,0 +1,31 @@
+NFL Week 12 card, 2026-11-24.
+16 games priced. 0 bets, 7 paper signals, 9 passes.
+
+Most games aren't bets.
+Every line, every disagreement, every result: link in reply.
+
+=====
+
+Why we're passing on Panthers @ Buccaneers:
+Pinnacle -3. Our model -3.2.
+Best edge on either side of the spread: 0.7%.
+That's noise, not an edge. The price is fair.
+
+=====
+
+This looks like an edge. It isn't.
+Jets @ Dolphins: market +3.5, our model -2.5.
+A gap that big usually means the model is missing something (a QB change, an injury), not that the sharp market is wrong.
+Automatic pass.
+
+=====
+
+Biggest model disagreement today (paper, not a bet):
+Vikings -7 +106
+Pinnacle fair +105 · model -134
+Our model hasn't beaten closing lines yet, so we track it instead of betting it.
+
+=====
+
+Record (PAPER): BET: none (the model has not earned BETs) · LEAN paper signals: 3-1-0, mean CLV n/a (n=0)
+Public, timestamped, append-only.
