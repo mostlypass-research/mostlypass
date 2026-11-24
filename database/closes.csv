@@ -515,3 +515,9 @@ snapshot_ts,label,event_id,commence_time,home_team,away_team,book,book_ts,market
 2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,spreads,San Francisco 49ers,-119,-3.5,26.9,0.0,safety
 2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,totals,Over,-105,45.0,26.9,0.0,safety
 2026-11-23T00:58:07Z,close,60e1d27b083a335b722c2c852ea85612,2026-11-23T01:25:00Z,San Francisco 49ers,Minnesota Vikings,pinnacle,2026-11-23T00:58:06Z,totals,Under,-107,45.0,26.9,0.0,safety
+2026-11-24T00:43:13Z,close,3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,pinnacle,2026-11-24T00:43:00Z,h2h,Cincinnati Bengals,-290,,31.8,0.2,safety
+2026-11-24T00:43:13Z,close,3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,pinnacle,2026-11-24T00:43:00Z,h2h,Washington Commanders,250,,31.8,0.2,safety
+2026-11-24T00:43:13Z,close,3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,pinnacle,2026-11-24T00:43:00Z,spreads,Cincinnati Bengals,-104,-6.5,31.8,0.2,safety
+2026-11-24T00:43:13Z,close,3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,pinnacle,2026-11-24T00:43:00Z,spreads,Washington Commanders,-106,6.5,31.8,0.2,safety
+2026-11-24T00:43:13Z,close,3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,pinnacle,2026-11-24T00:43:00Z,totals,Over,-102,54.0,31.8,0.2,safety
+2026-11-24T00:43:13Z,close,3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,pinnacle,2026-11-24T00:43:00Z,totals,Under,-110,54.0,31.8,0.2,safety
